@@ -6,7 +6,7 @@
       "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
       "author": "John Carter",
       "posted_date": "Mar 16 (4 Days ago)",
-      "reading_time": "5 min read",
+      "reading_time": "5",
       "hashtags": ["#Minimalism", "#Lifestyle", "#Mindfulness"]
     },
     {
@@ -16,7 +16,7 @@
       "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
       "author": "Sarah Johnson",
       "posted_date": "Mar 14 (6 Days ago)",
-      "reading_time": "7 min read",
+      "reading_time": "7",
       "hashtags": ["#RemoteWork", "#Productivity", "#WorkFromHome"]
     },
     {
@@ -26,7 +26,7 @@
       "author_img": "https://randomuser.me/api/portraits/men/50.jpg",
       "author": "David Lee",
       "posted_date": "Mar 10 (10 Days ago)",
-      "reading_time": "6 min read",
+      "reading_time": "6",
       "hashtags": ["#AI", "#Education", "#Technology"]
     },
     {
@@ -36,7 +36,7 @@
       "author_img": "https://randomuser.me/api/portraits/women/12.jpg",
       "author": "Emily Davis",
       "posted_date": "Mar 5 (15 Days ago)",
-      "reading_time": "8 min read",
+      "reading_time": "8",
       "hashtags": ["#Success", "#Motivation", "#SelfImprovement"]
     }
   ]
