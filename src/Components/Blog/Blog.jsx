@@ -23,7 +23,7 @@ const Blog = ({blog, blogsLength, handleAddToBookmark}) => {
                 </div>
                 <div className='flex items-center gap-2'>
                     <span className='text-gray-400'>{reading_time} min read </span>
-                    <button onClick={() => handleAddToBookmark(blog)}>jata</button>
+                    <button onClick={() => handleAddToBookmark(blog)}><FaRegBookmark></FaRegBookmark></button>
                     
 
                 </div>

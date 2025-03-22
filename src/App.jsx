@@ -22,9 +22,9 @@ function App() {
     <>
 
       <Header></Header>
-      <div className='md:flex'>
+      <div className='md:flex gap-3'>
         <Blogs handleAddToBookmark = {handleAddToBookmark}></Blogs>
-        <Bookmarks></Bookmarks>
+        <Bookmarks bookmarks={bookmarks}></Bookmarks>
       </div>
 
     </>

@@ -11,7 +11,7 @@ const Blogs = ({handleAddToBookmark}) => {
     },[])
     return (
         <div className='w-2/3'>
-            <h2>blogs: {blogs.length}</h2>
+            
             {
                 blogs.map(blog => 
                     
